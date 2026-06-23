@@ -8,6 +8,13 @@ A Flutter wellness app with a dark-themed mobile UI for nutrition tracking, trai
 <img width="373" height="814" alt="image" src="https://github.com/user-attachments/assets/d38fcb62-82ce-4fac-9cd5-68658d0c2075" />
 
 
+**[Download APK]** (https://drive.google.com/file/d/1zs_stvetm27GAmKfSPgcgzKmW7DIYJW-/view?usp=sharing)
+
+
+**[Watch App Demo Video]** (https://drive.google.com/file/d/1MAITgXW2RihDChl9QEDwYvh4tCQ3vU9I/view?usp=sharing)
+
+
+
 ## Features
 
 - **Nutrition** — week selector, date strip, workout cards, and insight cards; calendar and notification bottom sheets
