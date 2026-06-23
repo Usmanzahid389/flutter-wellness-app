@@ -1,6 +1,12 @@
-# test_task
 
 A Flutter wellness app with a dark-themed mobile UI for nutrition tracking, training plans, mood logging, and profile management.
+
+<img width="377" height="815" alt="image" src="https://github.com/user-attachments/assets/098f9d23-a2d4-4486-9019-ed18ec8e8503" />
+<img width="372" height="809" alt="image" src="https://github.com/user-attachments/assets/26164319-c00a-4dba-b5bd-340cfceae441" />
+<img width="373" height="816" alt="image" src="https://github.com/user-attachments/assets/ac1a627d-34f5-4646-82d7-8e50c8c78c88" />
+<img width="374" height="814" alt="image" src="https://github.com/user-attachments/assets/835e2e99-0a27-4c1a-a28d-9b402fbe6c86" />
+<img width="373" height="814" alt="image" src="https://github.com/user-attachments/assets/d38fcb62-82ce-4fac-9cd5-68658d0c2075" />
+
 
 ## Features
 
